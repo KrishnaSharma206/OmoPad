@@ -6,13 +6,13 @@ It has 9 SK6812 mini LEDs, which can be customised.
 # CAD Model
 It uses 4x M3 screws to assemble, there are two 3D printed parts.
 
-![image](https://github.com/user-attachments/assets/43183261-6b1e-4250-84a7-acf16e423401)
+![Screenshot 2025-06-02 043714](https://github.com/user-attachments/assets/023146e2-cd0e-42b6-94ee-b65fbae0c256)
 
 # PCB
 
-![image](https://github.com/user-attachments/assets/758bc0b2-3b0d-4376-9202-4b7161481ae0)
+![Screenshot 2025-06-02 043847](https://github.com/user-attachments/assets/5f94d57c-5af9-4663-a963-34c4d83de9d9)
 Schematic
-![image](https://github.com/user-attachments/assets/504c5a48-a6ca-4499-b93c-272121fe803c)
+![Screenshot 2025-06-02 043902](https://github.com/user-attachments/assets/64b32ee4-9f38-4b80-b78d-94fa8fb4b312)
 PCB Design
 
 # Firmware Overview
